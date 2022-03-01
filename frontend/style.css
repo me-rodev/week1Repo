@@ -1,0 +1,9 @@
+.nav{
+    background-color: aqua;
+}
+ul{
+    display: flex;
+    list-style: none;
+    /* padding-left: 10px; */
+    
+}
